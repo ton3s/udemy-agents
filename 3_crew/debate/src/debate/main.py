@@ -18,7 +18,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'motion': 'There needs to be strict laws to regulate LLMs',
+        'motion': '"AI-generated code can effectively apply SOLID principles better than most human developers". Can AI tools like GitHub Copilot consistently produce clean, maintainable OOP code?',
     }
     
     try:
